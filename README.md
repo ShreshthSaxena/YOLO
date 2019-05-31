@@ -1,5 +1,5 @@
 # YOLO (You only look once)
-Inspired by [qqwweee][1] and [Trieu][2] 's implementation
+Inspired by [qqwweee][1] and [Trieu][2] 's implementations
 
 working with Darknet YOLO, a real-time object detection system.
 
